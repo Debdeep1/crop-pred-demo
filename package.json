@@ -1,0 +1,19 @@
+{
+  "name": "crop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "ml-random-forest": "^2.1.0",
+    "ml-regression-multivariate-linear": "^2.0.4",
+    "papaparse": "^5.5.3"
+  }
+}

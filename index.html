@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>🌾 Crop Yield Prediction</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fb;
+      color: #2c3e50;
+    }
+    header {
+      background: linear-gradient(135deg, #2c3e50, #4ca1af);
+      color: #fff;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 600;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.25rem;
+      border-bottom: 2px solid #f0f0f0;
+      padding-bottom: 8px;
+      margin-bottom: 15px;
+    }
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      font-weight: 500;
+    }
+    select, input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+      font-size: 0.95rem;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      background: #4ca1af;
+      color: white;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    button:hover {
+      background: #357f89;
+    }
+    .result-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+    }
+    .result-card {
+      background: #fdfdfd;
+      padding: 15px;
+      border-radius: 12px;
+      border: 1px solid #e0e0e0;
+      text-align: center;
+    }
+    .result-card h3 {
+      margin: 0 0 10px;
+      font-size: 1.1rem;
+      color: #34495e;
+    }
+    .result-value {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #27ae60;
+    }
+    .footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9rem;
+      color: #888;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌾 Smart Crop Yield Predictor</h1>
+    <p>Powered by Linear Regression & Random Forest</p>
+  </header>
+
+  <div class="container">
+    <!-- Input Form Card -->
+    <div class="card">
+      <h2>Input Parameters</h2>
+      <form id="predictionForm">
+        <label for="crop_type">Crop Type:</label>
+        <select id="crop_type" name="crop_type"></select>
+
+        <label for="region">Region:</label>
+        <select id="region" name="region"></select>
+
+        <label for="soil_type">Soil Type:</label>
+        <select id="soil_type" name="soil_type"></select>
+
+        <label for="temperature_c">Temperature (°C):</label>
+        <input type="number" step="0.1" id="temperature_c" name="temperature_c" required />
+
+        <label for="rainfall_mm">Rainfall (mm):</label>
+        <input type="number" step="0.1" id="rainfall_mm" name="rainfall_mm" required />
+
+        <label for="humidity_percent">Humidity (%):</label>
+        <input type="number" step="0.1" id="humidity_percent" name="humidity_percent" required />
+
+        <label for="area_hectares">Area (hectares):</label>
+        <input type="number" step="0.1" id="area_hectares" name="area_hectares" required />
+
+        <button type="submit">🚀 Predict</button>
+      </form>
+    </div>
+
+    <!-- Results Card -->
+    <div class="card">
+      <h2>Prediction Results</h2>
+      <div id="results" class="result-grid">
+        <div class="result-card">
+          <h3>Linear Regression</h3>
+          <div class="result-value" id="linearYield">--</div>
+          <p>Total Yield: <span id="linearTotal">--</span></p>
+        </div>
+        <div class="result-card">
+          <h3>Random Forest</h3>
+          <div class="result-value" id="rfYield">--</div>
+          <p>Total Yield: <span id="rfTotal">--</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    🌱 Built with ❤️ for smarter agriculture
+  </div>
+
+  <script>
+    async function loadCategories() {
+      const res = await fetch("/categories");
+      const data = await res.json();
+
+      const cropSelect = document.getElementById("crop_type");
+      const regionSelect = document.getElementById("region");
+      const soilSelect = document.getElementById("soil_type");
+
+      data.crop_type.forEach(c => {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        cropSelect.appendChild(opt);
+      });
+
+      data.region.forEach(r => {
+        const opt = document.createElement("option");
+        opt.value = r;
+        opt.textContent = r;
+        regionSelect.appendChild(opt);
+      });
+
+      data.soil_type.forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s;
+        opt.textContent = s;
+        soilSelect.appendChild(opt);
+      });
+    }
+
+    document.getElementById("predictionForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      const params = new URLSearchParams(formData);
+
+      const res = await fetch(`/predict?${params.toString()}`);
+      const result = await res.json();
+
+      // Display results in bento cards
+      document.getElementById("linearYield").textContent = result.linear?.yield_per_hectare || "--";
+      document.getElementById("linearTotal").textContent = result.linear?.total_yield || "--";
+
+      document.getElementById("rfYield").textContent = result.random_forest?.yield_per_hectare || "--";
+      document.getElementById("rfTotal").textContent = result.random_forest?.total_yield || "--";
+    });
+
+    loadCategories();
+  </script>
+</body>
+</html>

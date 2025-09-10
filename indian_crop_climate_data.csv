@@ -1,0 +1,1001 @@
+crop_type,region,temperature_c,rainfall_mm,humidity_percent,soil_type,production_tonnes_per_hectare
+Millets,Uttarakhand,34.4,500,51,Black Soil,1.77
+Cotton,Maharashtra,31.1,926,47,Black Soil,2.2
+Cotton,Telangana,27.8,793,51,Red Soil,2.56
+Tea,Gujarat,14.6,1768,73,Mountain,2.9
+Sugarcane,Maharashtra,26.7,1192,69,Alluvial,117.7
+Wheat,Assam,24.0,631,60,Loam,3.65
+Maize,Andhra Pradesh,24.5,557,82,Sandy Loam,3.45
+Pulses,Bihar,23.6,363,64,Sandy Loam,1.74
+Cotton,Rajasthan,29.9,730,60,Black Soil,1.35
+Wheat,Andhra Pradesh,21.7,617,71,Clay Loam,5.57
+Rice,Uttarakhand,24.9,1928,76,Clay Loam,4.12
+Pulses,Gujarat,22.9,472,55,Loam,2.09
+Millets,Madhya Pradesh,30.2,629,61,Sandy Loam,1.71
+Soybean,Madhya Pradesh,30.5,862,69,Black Soil,2.06
+Sugarcane,Jammu and Kashmir,29.3,1560,65,Loam,70.37
+Millets,Andhra Pradesh,27.7,614,60,Sandy Loam,2.09
+Groundnut,Bihar,31.0,862,74,Red Soil,2.85
+Wheat,Jharkhand,20.0,638,61,Loam,3.19
+Soybean,Rajasthan,27.3,642,70,Alluvial,2.34
+Pulses,Karnataka,27.2,632,55,Black Soil,1.78
+Maize,Tamil Nadu,22.9,614,77,Loam,4.84
+Millets,Uttar Pradesh,29.1,260,47,Black Soil,2.46
+Tea,Maharashtra,19.6,2288,79,Laterite,2.48
+Tea,Rajasthan,19.5,2374,81,Laterite,3.42
+Millets,Jammu and Kashmir,30.2,329,52,Red Soil,2.57
+Maize,Rajasthan,18.9,582,79,Alluvial,5.52
+Tea,Madhya Pradesh,16.7,1664,80,Acidic,1.58
+Groundnut,Karnataka,32.6,778,64,Loam,2.13
+Maize,Assam,17.7,1223,85,Sandy Loam,5.79
+Tea,Andhra Pradesh,26.2,2388,74,Laterite,3.2
+Soybean,Punjab,28.8,792,73,Alluvial,3.02
+Maize,Telangana,23.1,1114,77,Loam,2.66
+Tea,Andhra Pradesh,16.6,2345,83,Laterite,3.43
+Groundnut,West Bengal,26.2,745,76,Sandy Loam,3.03
+Maize,Telangana,22.7,1376,67,Loam,3.95
+Cotton,Chhattisgarh,24.6,1086,58,Black Soil,1.5
+Groundnut,Uttarakhand,32.2,968,75,Sandy Loam,1.88
+Rice,Tamil Nadu,22.9,2434,74,Clay,5.63
+Rice,Uttarakhand,20.9,2826,77,Clay,5.58
+Cotton,Rajasthan,29.0,704,61,Alluvial,1.14
+Rice,Uttar Pradesh,24.3,3043,73,Alluvial,2.69
+Wheat,Assam,23.1,608,58,Loam,4.91
+Soybean,Karnataka,20.0,782,65,Clay Loam,2.02
+Groundnut,Uttar Pradesh,30.2,889,64,Sandy Loam,3.28
+Wheat,Kerala,16.3,455,67,Clay Loam,5.94
+Rice,Kerala,23.0,1585,80,Alluvial,2.82
+Maize,Andhra Pradesh,26.9,681,71,Sandy Loam,3.78
+Wheat,Karnataka,14.5,715,65,Silty Loam,4.61
+Groundnut,Chhattisgarh,26.6,516,78,Sandy Loam,3.16
+Cotton,Maharashtra,23.3,751,68,Alluvial,2.23
+Maize,Maharashtra,25.5,870,73,Alluvial,4.67
+Sugarcane,Karnataka,29.8,1158,78,Loam,99.89
+Maize,Tamil Nadu,17.6,760,64,Sandy Loam,2.81
+Pulses,Assam,26.0,539,55,Sandy Loam,1.1
+Soybean,Jharkhand,28.7,795,67,Black Soil,1.9
+Cotton,Assam,21.5,761,62,Red Soil,1.91
+Cotton,Gujarat,30.2,742,53,Alluvial,1.77
+Sugarcane,Maharashtra,22.7,1200,65,Alluvial,73.97
+Soybean,Gujarat,22.2,824,77,Alluvial,3.27
+Groundnut,Maharashtra,29.4,548,52,Sandy Loam,1.89
+Rice,Jharkhand,24.7,2331,70,Alluvial,4.86
+Maize,Gujarat,26.3,1108,67,Alluvial,5.7
+Rice,Karnataka,28.5,1529,88,Clay Loam,5.55
+Tea,West Bengal,18.5,2169,74,Mountain,3.74
+Rice,Chhattisgarh,28.2,1999,85,Clay Loam,5.0
+Sugarcane,Assam,32.5,1163,83,Loam,107.06
+Sugarcane,Maharashtra,30.3,1219,69,Black Soil,92.94
+Soybean,Madhya Pradesh,26.5,951,72,Alluvial,2.41
+Tea,Karnataka,20.4,1857,85,Laterite,3.51
+Sugarcane,Punjab,29.5,1443,76,Black Soil,106.13
+Tea,Jharkhand,14.3,2490,79,Laterite,2.67
+Sugarcane,Gujarat,23.6,1125,74,Black Soil,80.7
+Cotton,Rajasthan,21.8,569,52,Black Soil,2.11
+Soybean,Chhattisgarh,23.4,739,81,Alluvial,1.59
+Wheat,Uttar Pradesh,20.8,602,62,Loam,4.13
+Millets,Bihar,29.5,331,56,Sandy Loam,1.06
+Millets,Bihar,28.8,586,49,Red Soil,1.81
+Cotton,Jharkhand,26.9,813,70,Black Soil,1.07
+Rice,Jammu and Kashmir,22.4,2920,79,Clay,5.65
+Millets,Telangana,33.6,428,57,Sandy Loam,1.99
+Tea,Jharkhand,22.9,1749,79,Acidic,2.05
+Sugarcane,Kerala,29.2,1341,80,Alluvial,108.13
+Millets,Andhra Pradesh,28.9,507,37,Black Soil,1.81
+Tea,Jharkhand,15.1,1787,87,Mountain,1.86
+Soybean,Bihar,32.3,607,79,Clay Loam,2.77
+Wheat,Gujarat,23.6,603,48,Loam,4.22
+Wheat,Madhya Pradesh,15.0,888,46,Silty Loam,3.96
+Soybean,Jammu and Kashmir,30.8,1025,74,Clay Loam,2.66
+Tea,Punjab,24.8,1622,83,Laterite,2.24
+Millets,Haryana,32.6,276,49,Black Soil,2.57
+Wheat,Bihar,23.8,556,70,Silty Loam,3.5
+Tea,Telangana,16.7,1406,95,Laterite,1.31
+Groundnut,Andhra Pradesh,25.5,554,60,Sandy Loam,1.66
+Maize,Punjab,17.2,1273,70,Loam,4.28
+Soybean,Odisha,30.1,1055,74,Alluvial,2.15
+Groundnut,Chhattisgarh,36.7,773,67,Red Soil,3.58
+Cotton,Tamil Nadu,26.4,786,50,Alluvial,2.19
+Cotton,Maharashtra,31.6,819,63,Black Soil,2.28
+Maize,Punjab,28.0,680,84,Loam,4.32
+Rice,Tamil Nadu,28.4,2853,80,Clay Loam,6.32
+Pulses,Rajasthan,28.3,701,56,Black Soil,2.35
+Sugarcane,Maharashtra,32.5,1263,64,Alluvial,96.61
+Soybean,Kerala,28.8,754,78,Clay Loam,2.15
+Pulses,West Bengal,21.4,893,66,Sandy Loam,2.68
+Cotton,Uttarakhand,30.8,585,54,Alluvial,1.73
+Cotton,Kerala,33.3,707,60,Red Soil,1.7
+Rice,Telangana,20.0,2528,88,Alluvial,5.13
+Pulses,Assam,28.2,477,69,Loam,2.2
+Maize,Karnataka,28.0,1081,83,Alluvial,6.54
+Sugarcane,West Bengal,29.6,1048,62,Black Soil,94.35
+Soybean,Haryana,29.3,801,75,Clay Loam,2.07
+Rice,Telangana,33.6,1648,85,Clay,3.37
+Rice,Kerala,24.2,2151,73,Clay Loam,3.22
+Soybean,Odisha,24.2,994,74,Black Soil,1.81
+Sugarcane,Assam,35.3,971,91,Black Soil,109.1
+Wheat,Telangana,19.2,443,67,Clay Loam,4.3
+Cotton,Telangana,28.5,784,53,Black Soil,1.56
+Rice,Rajasthan,28.7,2878,85,Alluvial,6.36
+Wheat,Chhattisgarh,17.2,578,55,Clay Loam,4.51
+Cotton,Kerala,28.0,889,46,Alluvial,2.42
+Soybean,Rajasthan,25.9,808,63,Alluvial,2.1
+Soybean,West Bengal,30.8,586,60,Alluvial,2.51
+Maize,Uttarakhand,24.6,1377,67,Sandy Loam,3.38
+Pulses,Telangana,25.2,310,69,Sandy Loam,1.84
+Rice,Jammu and Kashmir,22.6,1768,89,Clay Loam,2.85
+Wheat,Telangana,20.3,385,58,Clay Loam,3.56
+Pulses,Assam,27.9,684,71,Loam,0.98
+Soybean,Jharkhand,29.9,870,84,Clay Loam,2.21
+Groundnut,Kerala,29.5,601,72,Red Soil,2.34
+Cotton,Kerala,34.5,719,51,Black Soil,1.98
+Groundnut,Uttar Pradesh,28.1,544,60,Red Soil,3.16
+Maize,Karnataka,24.4,769,60,Sandy Loam,2.5
+Millets,Tamil Nadu,32.1,625,52,Sandy Loam,1.56
+Wheat,Jharkhand,23.0,601,57,Silty Loam,5.64
+Wheat,Chhattisgarh,24.9,596,57,Silty Loam,5.14
+Tea,Andhra Pradesh,24.4,1882,77,Laterite,3.04
+Pulses,Gujarat,27.5,734,57,Sandy Loam,2.02
+Wheat,Jammu and Kashmir,26.7,545,69,Silty Loam,4.65
+Wheat,Uttar Pradesh,17.2,319,54,Silty Loam,3.29
+Groundnut,Maharashtra,29.2,849,70,Red Soil,2.2
+Tea,Rajasthan,20.6,1643,80,Mountain,3.13
+Wheat,Madhya Pradesh,14.4,502,48,Clay Loam,4.64
+Cotton,Maharashtra,28.1,575,62,Alluvial,2.49
+Groundnut,Punjab,24.2,480,75,Loam,3.59
+Groundnut,Uttarakhand,29.4,538,67,Sandy Loam,2.36
+Groundnut,Maharashtra,35.0,971,61,Red Soil,2.65
+Pulses,Madhya Pradesh,25.3,571,59,Loam,2.29
+Millets,Uttarakhand,33.2,428,46,Black Soil,2.53
+Groundnut,Uttar Pradesh,34.7,683,70,Red Soil,3.46
+Wheat,Karnataka,19.2,651,55,Loam,4.06
+Wheat,Tamil Nadu,13.0,401,59,Silty Loam,3.33
+Groundnut,Jharkhand,24.9,707,59,Loam,1.65
+Pulses,Rajasthan,24.3,987,56,Sandy Loam,1.05
+Maize,Maharashtra,19.8,739,71,Loam,5.91
+Maize,Uttarakhand,20.9,861,56,Sandy Loam,3.48
+Pulses,Andhra Pradesh,27.6,719,69,Sandy Loam,1.97
+Soybean,Odisha,26.0,679,71,Black Soil,2.52
+Rice,Madhya Pradesh,20.5,1460,91,Alluvial,2.59
+Millets,Jammu and Kashmir,26.7,298,43,Red Soil,2.41
+Rice,Karnataka,28.4,2349,82,Clay,2.53
+Tea,West Bengal,21.5,2522,85,Acidic,3.53
+Groundnut,Karnataka,29.6,727,66,Red Soil,2.05
+Maize,Bihar,24.2,851,71,Loam,5.02
+Pulses,Odisha,23.9,674,65,Loam,0.58
+Soybean,Telangana,31.5,879,73,Alluvial,2.37
+Maize,Assam,18.6,873,78,Loam,6.71
+Groundnut,Andhra Pradesh,32.8,972,60,Red Soil,1.88
+Cotton,Tamil Nadu,32.3,1065,59,Black Soil,2.02
+Pulses,Karnataka,23.3,386,62,Sandy Loam,1.48
+Maize,Punjab,20.2,1028,67,Sandy Loam,4.77
+Cotton,Kerala,30.8,902,50,Red Soil,1.84
+Sugarcane,Chhattisgarh,31.8,1260,83,Black Soil,98.63
+Pulses,Assam,26.3,436,59,Sandy Loam,1.35
+Rice,Kerala,29.3,1624,86,Clay,6.41
+Maize,West Bengal,19.2,548,74,Sandy Loam,6.84
+Maize,Telangana,17.3,529,64,Alluvial,7.05
+Pulses,Telangana,21.7,628,42,Loam,2.03
+Wheat,Odisha,25.4,750,71,Clay Loam,5.48
+Maize,Bihar,24.3,831,63,Alluvial,6.63
+Millets,Uttar Pradesh,30.6,489,55,Red Soil,2.25
+Wheat,Uttar Pradesh,15.2,355,66,Loam,5.62
+Soybean,Assam,25.2,843,67,Alluvial,2.79
+Sugarcane,Assam,23.5,1436,82,Black Soil,74.11
+Soybean,Telangana,28.4,742,53,Alluvial,3.2
+Groundnut,West Bengal,25.9,637,73,Loam,3.53
+Millets,Punjab,32.8,611,48,Red Soil,1.51
+Maize,West Bengal,28.4,1181,78,Loam,6.1
+Maize,Kerala,21.9,1172,89,Alluvial,3.3
+Wheat,Madhya Pradesh,23.2,649,63,Clay Loam,4.59
+Groundnut,Maharashtra,33.6,806,70,Sandy Loam,1.68
+Cotton,Assam,24.3,845,56,Alluvial,2.57
+Cotton,Karnataka,22.4,706,54,Black Soil,3.26
+Pulses,Assam,21.8,443,57,Loam,2.31
+Pulses,Maharashtra,23.7,575,69,Loam,1.5
+Millets,Punjab,30.7,798,58,Black Soil,2.85
+Sugarcane,Jharkhand,23.2,1030,66,Alluvial,74.03
+Cotton,Gujarat,26.6,893,55,Alluvial,2.14
+Cotton,Odisha,34.8,776,61,Black Soil,2.02
+Groundnut,West Bengal,32.0,515,69,Sandy Loam,2.75
+Pulses,Karnataka,28.0,581,64,Black Soil,0.5
+Pulses,Telangana,30.9,619,69,Sandy Loam,1.32
+Cotton,Andhra Pradesh,33.3,599,59,Alluvial,2.22
+Rice,Karnataka,21.6,1528,74,Alluvial,4.51
+Rice,Jammu and Kashmir,31.9,2353,69,Clay Loam,2.34
+Cotton,Telangana,32.6,850,63,Black Soil,1.89
+Wheat,West Bengal,19.6,594,49,Silty Loam,4.52
+Groundnut,Rajasthan,29.4,834,70,Loam,2.88
+Maize,Maharashtra,21.8,1033,93,Sandy Loam,2.41
+Tea,Madhya Pradesh,16.0,1994,79,Mountain,3.87
+Millets,Gujarat,31.3,478,49,Red Soil,1.84
+Tea,West Bengal,18.7,2069,71,Acidic,3.21
+Cotton,Odisha,24.0,1023,71,Black Soil,2.22
+Wheat,Madhya Pradesh,14.9,755,52,Loam,4.05
+Maize,Madhya Pradesh,29.3,833,70,Sandy Loam,5.88
+Sugarcane,Madhya Pradesh,21.7,1379,76,Black Soil,75.07
+Tea,Chhattisgarh,21.5,1995,78,Mountain,2.56
+Wheat,Odisha,19.2,826,62,Clay Loam,4.49
+Maize,Chhattisgarh,26.9,1321,61,Alluvial,6.68
+Rice,Uttarakhand,26.6,1591,91,Clay Loam,4.66
+Tea,West Bengal,17.5,1771,89,Mountain,3.11
+Wheat,Jammu and Kashmir,22.4,616,65,Silty Loam,3.9
+Millets,Punjab,32.0,597,46,Black Soil,2.23
+Soybean,Bihar,24.3,839,61,Alluvial,1.94
+Cotton,Maharashtra,21.4,685,61,Alluvial,1.72
+Wheat,Kerala,25.5,703,48,Loam,4.27
+Wheat,Rajasthan,18.0,317,56,Silty Loam,5.35
+Maize,Kerala,26.3,855,79,Sandy Loam,3.29
+Pulses,Uttarakhand,26.7,747,53,Loam,2.22
+Millets,Karnataka,26.3,592,43,Red Soil,2.58
+Rice,Haryana,25.5,2543,70,Clay,4.41
+Groundnut,Maharashtra,29.0,799,69,Sandy Loam,2.45
+Millets,Uttar Pradesh,35.7,761,57,Black Soil,1.39
+Groundnut,Uttarakhand,34.3,727,51,Sandy Loam,2.48
+Cotton,Telangana,20.4,978,52,Black Soil,3.28
+Soybean,Uttar Pradesh,31.5,983,66,Black Soil,1.36
+Maize,Karnataka,21.0,959,54,Alluvial,3.81
+Pulses,Chhattisgarh,20.9,610,63,Black Soil,1.47
+Tea,Tamil Nadu,22.3,1974,84,Acidic,2.58
+Tea,Rajasthan,20.0,1885,78,Mountain,3.74
+Soybean,Uttar Pradesh,27.1,552,63,Alluvial,2.6
+Tea,West Bengal,26.8,2475,90,Laterite,2.85
+Millets,Andhra Pradesh,34.7,753,56,Black Soil,0.99
+Rice,Chhattisgarh,31.0,2021,80,Alluvial,6.69
+Pulses,Uttar Pradesh,29.7,653,48,Sandy Loam,2.47
+Cotton,Tamil Nadu,27.3,623,59,Black Soil,0.94
+Groundnut,Punjab,29.0,746,73,Loam,3.05
+Millets,Tamil Nadu,33.3,593,47,Black Soil,2.43
+Wheat,Karnataka,18.0,569,66,Silty Loam,4.01
+Maize,Andhra Pradesh,26.4,718,73,Alluvial,5.57
+Pulses,Madhya Pradesh,21.3,404,61,Sandy Loam,0.52
+Maize,Bihar,19.3,709,72,Loam,5.67
+Wheat,Uttar Pradesh,14.9,842,47,Clay Loam,5.73
+Sugarcane,Madhya Pradesh,30.5,1171,78,Black Soil,110.22
+Millets,Andhra Pradesh,33.2,526,38,Sandy Loam,2.01
+Tea,Assam,25.6,1853,80,Mountain,3.95
+Cotton,Maharashtra,34.7,549,68,Red Soil,3.12
+Pulses,Tamil Nadu,22.0,773,60,Loam,0.54
+Sugarcane,Assam,27.5,1437,73,Black Soil,79.18
+Pulses,West Bengal,27.9,522,59,Sandy Loam,0.53
+Rice,Odisha,27.7,2248,87,Clay Loam,6.29
+Sugarcane,Chhattisgarh,34.3,1464,81,Loam,87.83
+Rice,Maharashtra,31.2,1907,85,Clay,4.52
+Rice,Bihar,26.2,2290,80,Clay,2.94
+Wheat,West Bengal,20.2,534,68,Loam,6.03
+Cotton,Jammu and Kashmir,27.6,527,73,Red Soil,1.8
+Millets,Jharkhand,30.3,479,55,Black Soil,2.13
+Rice,Tamil Nadu,24.3,2576,84,Clay,3.14
+Wheat,Assam,17.7,660,64,Silty Loam,4.97
+Soybean,Haryana,30.9,873,65,Clay Loam,2.85
+Groundnut,Chhattisgarh,29.6,796,70,Red Soil,2.68
+Tea,Odisha,20.4,1859,89,Mountain,2.31
+Maize,Maharashtra,24.1,917,75,Loam,5.22
+Sugarcane,Uttar Pradesh,21.4,1252,84,Loam,104.41
+Groundnut,Kerala,30.2,652,63,Sandy Loam,2.79
+Pulses,Chhattisgarh,25.5,727,57,Black Soil,1.35
+Tea,Jammu and Kashmir,21.8,2000,80,Laterite,2.69
+Tea,Uttar Pradesh,21.5,1340,94,Laterite,3.5
+Cotton,Andhra Pradesh,26.1,593,67,Red Soil,2.86
+Rice,Madhya Pradesh,30.2,2725,95,Alluvial,5.98
+Maize,Assam,19.4,963,62,Alluvial,4.47
+Soybean,West Bengal,21.5,663,77,Clay Loam,2.5
+Millets,Bihar,33.0,652,35,Sandy Loam,1.12
+Tea,Uttarakhand,22.0,2192,82,Mountain,3.88
+Rice,Chhattisgarh,25.2,2100,79,Clay Loam,4.14
+Cotton,Gujarat,19.1,795,57,Alluvial,1.89
+Maize,Tamil Nadu,26.4,652,70,Sandy Loam,2.49
+Groundnut,Andhra Pradesh,32.9,519,57,Red Soil,2.05
+Groundnut,Assam,31.6,742,80,Loam,3.42
+Rice,Rajasthan,25.1,2610,79,Alluvial,5.66
+Cotton,Assam,35.0,693,70,Black Soil,2.43
+Groundnut,Jammu and Kashmir,25.1,608,72,Sandy Loam,1.73
+Cotton,Punjab,23.0,542,66,Red Soil,1.94
+Sugarcane,Andhra Pradesh,22.6,970,68,Loam,102.28
+Wheat,Chhattisgarh,15.6,835,58,Silty Loam,3.97
+Millets,Uttarakhand,24.6,699,50,Sandy Loam,1.67
+Millets,Bihar,29.2,488,56,Sandy Loam,2.54
+Soybean,Karnataka,25.2,783,75,Clay Loam,3.66
+Wheat,Telangana,17.2,669,70,Loam,3.98
+Rice,Kerala,31.5,2071,78,Clay Loam,5.07
+Millets,Tamil Nadu,33.4,453,59,Sandy Loam,1.79
+Pulses,Jharkhand,28.2,595,64,Sandy Loam,2.24
+Sugarcane,Telangana,28.6,1256,75,Black Soil,60.0
+Cotton,Uttarakhand,31.7,994,65,Alluvial,1.81
+Millets,Assam,32.6,478,72,Sandy Loam,2.58
+Groundnut,Uttarakhand,28.5,861,68,Red Soil,2.35
+Sugarcane,Tamil Nadu,29.2,1092,72,Black Soil,81.6
+Groundnut,Gujarat,26.5,634,80,Loam,2.54
+Wheat,Uttarakhand,20.1,716,48,Silty Loam,5.42
+Maize,Chhattisgarh,21.2,1108,73,Alluvial,2.51
+Sugarcane,Punjab,31.3,1218,77,Loam,112.98
+Cotton,Jammu and Kashmir,20.9,862,52,Red Soil,1.86
+Rice,Andhra Pradesh,31.2,1500,77,Clay,3.93
+Sugarcane,Bihar,33.0,979,60,Loam,107.79
+Millets,Chhattisgarh,27.9,328,64,Red Soil,2.36
+Millets,Odisha,29.0,509,43,Red Soil,2.87
+Tea,Andhra Pradesh,19.5,1932,76,Acidic,3.18
+Millets,Rajasthan,33.2,599,47,Red Soil,0.95
+Cotton,Rajasthan,21.9,934,54,Red Soil,1.53
+Groundnut,Jharkhand,30.4,552,65,Sandy Loam,3.05
+Cotton,Bihar,20.5,1006,52,Black Soil,2.39
+Tea,Bihar,24.7,1740,83,Acidic,3.29
+Tea,Uttarakhand,17.3,1710,71,Mountain,2.74
+Rice,Assam,22.6,1874,76,Clay Loam,2.6
+Millets,Madhya Pradesh,32.5,616,43,Red Soil,2.7
+Wheat,Kerala,22.6,727,53,Loam,5.71
+Millets,Uttarakhand,27.7,599,60,Black Soil,1.42
+Groundnut,Karnataka,27.0,605,59,Red Soil,2.51
+Maize,Karnataka,27.9,818,58,Loam,5.38
+Soybean,Chhattisgarh,26.4,816,65,Alluvial,1.89
+Millets,Madhya Pradesh,36.8,547,37,Black Soil,1.85
+Cotton,Bihar,22.3,541,62,Alluvial,1.78
+Groundnut,Maharashtra,27.6,654,51,Sandy Loam,3.53
+Wheat,Haryana,26.4,720,57,Silty Loam,3.51
+Sugarcane,Chhattisgarh,33.5,1224,63,Black Soil,101.34
+Pulses,Chhattisgarh,20.8,614,54,Black Soil,2.47
+Wheat,Andhra Pradesh,16.5,379,59,Loam,5.47
+Wheat,Uttar Pradesh,19.1,705,67,Silty Loam,3.65
+Wheat,Uttarakhand,15.0,455,60,Loam,4.7
+Rice,Tamil Nadu,28.7,2408,71,Alluvial,3.98
+Soybean,Assam,29.7,678,72,Black Soil,1.95
+Tea,Uttarakhand,16.8,2209,85,Acidic,3.34
+Cotton,Chhattisgarh,30.7,735,57,Alluvial,2.45
+Rice,Bihar,24.5,2026,81,Clay,3.63
+Sugarcane,Kerala,25.9,1261,79,Loam,74.09
+Groundnut,Punjab,27.3,589,67,Sandy Loam,3.29
+Pulses,Jharkhand,24.6,441,63,Loam,1.71
+Soybean,Bihar,28.6,1013,79,Alluvial,2.47
+Pulses,Uttar Pradesh,20.5,577,51,Black Soil,1.94
+Tea,Jammu and Kashmir,23.4,1886,90,Mountain,2.4
+Tea,Jharkhand,18.1,1578,78,Laterite,1.75
+Pulses,Kerala,22.2,495,56,Loam,2.22
+Wheat,Bihar,14.5,583,52,Silty Loam,3.9
+Wheat,Assam,16.7,678,55,Clay Loam,3.41
+Rice,West Bengal,31.2,2818,72,Clay,3.65
+Maize,Bihar,24.7,1088,70,Loam,5.02
+Pulses,West Bengal,26.4,364,56,Loam,0.52
+Sugarcane,Uttarakhand,33.9,1185,66,Loam,98.55
+Wheat,Haryana,13.9,642,64,Clay Loam,5.35
+Groundnut,Jammu and Kashmir,35.9,619,62,Red Soil,2.49
+Maize,Odisha,19.9,610,58,Alluvial,2.82
+Soybean,West Bengal,22.3,645,85,Alluvial,3.05
+Pulses,Andhra Pradesh,22.1,449,53,Sandy Loam,2.4
+Tea,Gujarat,23.4,2086,85,Mountain,2.82
+Groundnut,Jharkhand,30.1,612,69,Sandy Loam,1.64
+Pulses,Tamil Nadu,28.1,623,62,Sandy Loam,2.37
+Cotton,Kerala,26.6,484,53,Red Soil,2.4
+Rice,Gujarat,27.9,2321,72,Clay Loam,4.51
+Cotton,Jharkhand,21.4,863,65,Red Soil,3.01
+Wheat,Kerala,24.8,518,63,Loam,3.97
+Cotton,Uttarakhand,30.9,903,65,Red Soil,1.87
+Rice,Bihar,28.9,2633,76,Alluvial,3.86
+Groundnut,Uttarakhand,28.4,713,64,Red Soil,2.32
+Soybean,Jammu and Kashmir,31.6,1038,69,Alluvial,1.79
+Pulses,Jharkhand,28.4,719,60,Black Soil,1.77
+Sugarcane,Telangana,31.0,1296,72,Alluvial,91.84
+Millets,Jharkhand,28.7,456,51,Sandy Loam,1.19
+Cotton,Uttar Pradesh,27.9,687,71,Black Soil,1.66
+Pulses,Uttarakhand,27.6,528,49,Black Soil,2.35
+Sugarcane,Uttar Pradesh,20.4,1265,63,Alluvial,97.08
+Cotton,Karnataka,24.2,930,66,Red Soil,2.41
+Sugarcane,Madhya Pradesh,20.3,1369,72,Loam,89.85
+Millets,Uttar Pradesh,28.1,646,61,Red Soil,2.6
+Maize,Andhra Pradesh,24.3,939,85,Alluvial,3.56
+Millets,Telangana,24.6,532,65,Red Soil,1.56
+Wheat,West Bengal,18.6,855,64,Silty Loam,4.87
+Millets,Jammu and Kashmir,31.5,688,48,Sandy Loam,1.87
+Millets,Assam,26.9,347,34,Black Soil,1.0
+Millets,Uttarakhand,29.0,271,30,Black Soil,2.45
+Tea,Odisha,18.4,1966,83,Laterite,1.96
+Wheat,Kerala,13.3,691,50,Silty Loam,4.91
+Sugarcane,Uttar Pradesh,19.0,1608,54,Black Soil,95.79
+Groundnut,Uttarakhand,28.5,752,79,Loam,1.43
+Millets,Odisha,32.7,293,59,Red Soil,2.64
+Millets,Jammu and Kashmir,27.2,596,52,Black Soil,1.98
+Soybean,Punjab,26.7,1010,68,Clay Loam,1.42
+Millets,Odisha,31.9,412,74,Red Soil,2.63
+Wheat,Jammu and Kashmir,24.0,680,63,Silty Loam,4.03
+Rice,Uttarakhand,23.4,1955,81,Alluvial,3.33
+Pulses,Kerala,23.5,366,42,Sandy Loam,1.96
+Cotton,Uttar Pradesh,25.3,364,69,Red Soil,2.54
+Pulses,Jammu and Kashmir,25.6,394,50,Black Soil,1.5
+Groundnut,Punjab,25.7,633,77,Sandy Loam,2.28
+Groundnut,West Bengal,30.5,709,69,Sandy Loam,2.48
+Tea,Kerala,21.8,1832,86,Mountain,1.97
+Sugarcane,Kerala,28.1,1078,79,Loam,78.79
+Millets,Jharkhand,27.3,626,50,Black Soil,3.2
+Millets,Andhra Pradesh,31.0,523,36,Black Soil,2.1
+Soybean,Gujarat,26.3,1038,77,Alluvial,1.93
+Cotton,Karnataka,21.3,842,61,Black Soil,1.65
+Groundnut,Chhattisgarh,32.3,624,66,Red Soil,1.75
+Soybean,Jammu and Kashmir,30.2,743,83,Black Soil,3.92
+Cotton,Kerala,22.5,811,65,Alluvial,1.6
+Sugarcane,Madhya Pradesh,26.5,1062,74,Alluvial,118.94
+Rice,Uttarakhand,24.5,2074,92,Clay Loam,2.47
+Groundnut,Maharashtra,33.0,490,56,Red Soil,3.21
+Millets,Tamil Nadu,23.3,633,59,Sandy Loam,2.21
+Cotton,Madhya Pradesh,34.3,904,63,Black Soil,1.41
+Maize,Uttarakhand,16.9,878,73,Loam,4.43
+Rice,Uttar Pradesh,21.7,2346,78,Clay Loam,5.53
+Wheat,Haryana,17.4,527,59,Clay Loam,4.41
+Wheat,Jammu and Kashmir,14.7,451,52,Silty Loam,4.28
+Groundnut,Assam,27.4,515,73,Loam,1.1
+Millets,Bihar,27.5,444,59,Red Soil,1.67
+Millets,Assam,35.4,332,55,Black Soil,1.32
+Pulses,Karnataka,22.3,695,65,Black Soil,1.3
+Cotton,Maharashtra,26.0,560,59,Alluvial,2.03
+Cotton,Haryana,23.9,634,72,Black Soil,2.87
+Wheat,Uttar Pradesh,17.8,697,65,Loam,4.17
+Millets,Gujarat,29.2,518,48,Black Soil,2.33
+Rice,Andhra Pradesh,32.9,2584,81,Alluvial,4.19
+Tea,Maharashtra,18.2,2002,74,Acidic,3.39
+Pulses,Gujarat,20.3,567,60,Sandy Loam,1.02
+Sugarcane,Chhattisgarh,23.2,1297,82,Black Soil,105.22
+Wheat,Andhra Pradesh,19.8,773,53,Loam,5.7
+Maize,Jammu and Kashmir,18.2,602,77,Sandy Loam,6.75
+Rice,Telangana,30.3,2849,80,Clay Loam,5.08
+Soybean,Uttar Pradesh,24.0,693,84,Clay Loam,2.59
+Tea,Jharkhand,14.4,2320,88,Mountain,1.9
+Rice,Telangana,31.2,2270,87,Clay,4.43
+Wheat,Uttarakhand,20.8,702,60,Clay Loam,5.79
+Sugarcane,Haryana,28.1,1548,77,Loam,71.39
+Maize,Punjab,22.7,1192,60,Alluvial,3.4
+Rice,Karnataka,25.3,2417,84,Alluvial,4.35
+Cotton,Uttar Pradesh,29.2,889,49,Alluvial,2.6
+Cotton,Odisha,27.6,810,57,Alluvial,1.82
+Tea,Telangana,20.9,2337,86,Laterite,3.14
+Rice,Tamil Nadu,30.4,2767,76,Clay,6.69
+Tea,Karnataka,17.2,1667,76,Mountain,2.53
+Groundnut,Uttarakhand,30.5,871,62,Loam,1.1
+Wheat,Uttarakhand,20.3,658,59,Clay Loam,3.63
+Rice,Odisha,32.0,2205,75,Alluvial,4.45
+Millets,Punjab,29.6,890,38,Red Soil,2.46
+Tea,Karnataka,22.3,2025,82,Mountain,3.26
+Millets,Karnataka,32.8,702,42,Sandy Loam,2.07
+Tea,Rajasthan,23.6,2078,71,Acidic,2.33
+Rice,Rajasthan,24.7,1739,67,Alluvial,6.17
+Rice,Gujarat,27.6,2912,81,Clay Loam,2.98
+Sugarcane,Uttar Pradesh,24.2,1395,82,Loam,72.1
+Cotton,Andhra Pradesh,26.2,860,68,Black Soil,1.93
+Cotton,Maharashtra,32.2,676,58,Black Soil,1.19
+Rice,Rajasthan,30.3,1617,88,Clay Loam,4.69
+Sugarcane,Rajasthan,24.1,1463,64,Black Soil,61.49
+Soybean,Chhattisgarh,28.4,865,84,Alluvial,2.34
+Rice,Haryana,31.6,2259,69,Clay Loam,2.49
+Sugarcane,Assam,31.7,1235,69,Alluvial,88.09
+Sugarcane,Uttarakhand,31.4,1285,66,Alluvial,80.06
+Millets,Madhya Pradesh,31.4,467,52,Black Soil,2.0
+Cotton,West Bengal,26.3,820,67,Alluvial,1.79
+Rice,Rajasthan,22.7,2385,80,Clay,4.72
+Cotton,Uttar Pradesh,33.7,661,71,Black Soil,1.82
+Pulses,Jammu and Kashmir,22.1,541,64,Sandy Loam,1.69
+Sugarcane,Jammu and Kashmir,30.9,1483,66,Loam,74.02
+Tea,Jammu and Kashmir,21.4,1661,84,Mountain,1.86
+Sugarcane,Uttar Pradesh,23.1,1595,68,Loam,60.53
+Wheat,Rajasthan,22.5,474,48,Silty Loam,4.88
+Groundnut,Jharkhand,23.4,680,76,Red Soil,2.28
+Millets,Punjab,32.2,121,36,Sandy Loam,1.53
+Pulses,Telangana,24.6,816,59,Loam,2.14
+Wheat,Tamil Nadu,24.6,632,56,Silty Loam,2.99
+Tea,Jammu and Kashmir,14.2,1792,84,Mountain,2.42
+Groundnut,Kerala,25.9,605,70,Loam,2.74
+Soybean,Telangana,23.5,749,76,Black Soil,2.12
+Groundnut,Kerala,30.8,882,58,Red Soil,2.11
+Pulses,Punjab,25.9,496,57,Loam,2.47
+Soybean,Odisha,23.7,634,73,Alluvial,2.48
+Rice,Kerala,31.1,2641,69,Clay,3.69
+Soybean,Madhya Pradesh,28.2,729,67,Black Soil,1.4
+Tea,Assam,15.8,2455,95,Acidic,1.85
+Maize,Rajasthan,27.5,829,67,Sandy Loam,5.17
+Maize,Assam,23.1,780,79,Loam,6.31
+Sugarcane,Odisha,20.8,1287,78,Alluvial,84.79
+Cotton,Rajasthan,32.6,964,58,Red Soil,1.71
+Wheat,Maharashtra,20.1,746,66,Clay Loam,6.01
+Tea,Tamil Nadu,18.2,1509,71,Mountain,2.47
+Maize,Maharashtra,25.8,1146,75,Alluvial,2.94
+Pulses,Karnataka,29.8,953,74,Loam,2.06
+Tea,Punjab,23.8,1630,78,Mountain,3.27
+Groundnut,Kerala,25.7,861,72,Loam,2.54
+Wheat,Gujarat,23.9,913,69,Loam,3.48
+Tea,Haryana,22.6,1549,89,Mountain,4.08
+Soybean,Telangana,21.9,794,62,Clay Loam,2.73
+Pulses,Assam,19.1,644,61,Black Soil,1.72
+Wheat,Gujarat,19.0,595,58,Loam,5.56
+Pulses,West Bengal,19.4,220,62,Sandy Loam,1.13
+Sugarcane,West Bengal,20.2,1050,66,Alluvial,81.12
+Cotton,Gujarat,25.4,743,49,Alluvial,1.71
+Maize,Haryana,21.3,995,72,Alluvial,2.83
+Maize,Kerala,21.2,1047,65,Sandy Loam,3.97
+Soybean,Andhra Pradesh,21.6,766,81,Black Soil,1.44
+Sugarcane,Madhya Pradesh,20.4,1355,80,Alluvial,118.47
+Groundnut,Gujarat,29.0,801,72,Sandy Loam,3.13
+Wheat,Kerala,23.3,743,65,Silty Loam,3.78
+Cotton,Kerala,22.9,840,76,Alluvial,2.15
+Millets,Maharashtra,28.6,185,37,Red Soil,2.14
+Soybean,Maharashtra,22.4,998,72,Black Soil,3.42
+Cotton,Haryana,19.4,669,60,Red Soil,2.16
+Maize,Madhya Pradesh,25.1,933,75,Loam,5.51
+Rice,Chhattisgarh,30.0,2943,82,Clay,2.56
+Tea,Tamil Nadu,23.2,2057,76,Mountain,3.04
+Millets,Gujarat,26.2,369,70,Black Soil,2.44
+Cotton,Bihar,28.4,726,74,Red Soil,1.96
+Wheat,Telangana,15.5,634,54,Silty Loam,4.79
+Rice,Jammu and Kashmir,25.9,1422,85,Clay Loam,4.37
+Maize,Uttar Pradesh,21.2,1297,71,Loam,5.36
+Wheat,Jharkhand,19.9,848,57,Silty Loam,3.53
+Millets,Maharashtra,32.1,275,41,Sandy Loam,1.69
+Pulses,Uttarakhand,27.1,733,64,Loam,1.48
+Groundnut,Jammu and Kashmir,32.2,855,67,Loam,2.13
+Soybean,Karnataka,28.9,661,66,Clay Loam,1.98
+Millets,Haryana,32.4,346,61,Sandy Loam,2.59
+Millets,Punjab,31.6,349,51,Sandy Loam,1.43
+Rice,Jharkhand,26.6,2361,95,Alluvial,6.12
+Pulses,Chhattisgarh,28.8,723,62,Loam,1.45
+Tea,Chhattisgarh,16.1,1817,76,Laterite,2.18
+Groundnut,Tamil Nadu,31.7,762,63,Sandy Loam,0.97
+Pulses,Kerala,28.1,376,61,Loam,1.87
+Tea,Chhattisgarh,18.9,1850,77,Acidic,3.22
+Cotton,Karnataka,26.4,798,52,Black Soil,1.52
+Millets,Jammu and Kashmir,25.6,315,57,Black Soil,3.15
+Pulses,Haryana,21.6,779,61,Loam,0.6
+Pulses,Andhra Pradesh,25.2,820,60,Black Soil,0.97
+Wheat,Kerala,24.0,372,74,Loam,6.37
+Cotton,Telangana,21.9,599,49,Red Soil,1.84
+Pulses,Jammu and Kashmir,21.2,542,50,Loam,1.94
+Groundnut,Odisha,27.0,704,63,Red Soil,2.78
+Wheat,Karnataka,19.0,398,71,Silty Loam,6.04
+Tea,Madhya Pradesh,23.1,1985,77,Laterite,2.45
+Tea,Uttarakhand,19.1,1885,84,Mountain,4.16
+Tea,Uttarakhand,15.8,2032,95,Mountain,2.61
+Maize,Assam,30.5,1130,68,Sandy Loam,3.03
+Wheat,Gujarat,23.4,741,67,Silty Loam,5.68
+Cotton,Uttar Pradesh,29.7,611,67,Black Soil,0.95
+Wheat,Rajasthan,22.2,756,69,Silty Loam,3.84
+Soybean,Rajasthan,27.5,943,67,Clay Loam,2.81
+Pulses,Punjab,22.8,544,55,Sandy Loam,2.5
+Rice,Uttarakhand,26.8,1661,67,Alluvial,3.55
+Maize,Jharkhand,28.0,574,69,Loam,3.93
+Sugarcane,Uttarakhand,20.7,1286,87,Alluvial,76.07
+Wheat,Kerala,15.4,556,70,Loam,4.98
+Soybean,Assam,21.1,1057,70,Alluvial,3.38
+Cotton,Assam,27.0,935,68,Black Soil,1.79
+Rice,Jharkhand,25.1,2146,85,Clay Loam,3.92
+Wheat,Uttarakhand,26.1,580,57,Clay Loam,4.06
+Millets,Chhattisgarh,25.3,509,67,Sandy Loam,1.94
+Groundnut,Madhya Pradesh,33.1,892,56,Red Soil,1.86
+Pulses,Uttarakhand,25.7,403,55,Loam,1.27
+Soybean,Uttar Pradesh,20.8,769,74,Alluvial,1.73
+Cotton,Tamil Nadu,31.8,931,64,Alluvial,2.7
+Rice,West Bengal,29.9,1850,74,Clay,6.39
+Pulses,Telangana,21.2,462,58,Black Soil,1.58
+Rice,Telangana,22.2,2465,72,Alluvial,6.55
+Rice,Rajasthan,24.2,1561,75,Clay Loam,3.58
+Soybean,Punjab,31.2,685,58,Black Soil,1.77
+Wheat,Punjab,22.9,726,62,Silty Loam,3.15
+Pulses,Rajasthan,27.4,789,60,Black Soil,1.06
+Groundnut,Uttar Pradesh,34.4,766,53,Loam,2.59
+Millets,Jharkhand,35.1,590,48,Red Soil,2.07
+Maize,Kerala,26.2,760,74,Alluvial,2.64
+Soybean,Bihar,29.4,731,74,Clay Loam,3.27
+Soybean,Bihar,25.0,926,80,Alluvial,2.47
+Groundnut,Uttarakhand,28.2,714,68,Red Soil,1.64
+Tea,Kerala,15.6,1940,80,Acidic,2.1
+Pulses,Bihar,28.1,778,48,Loam,1.9
+Rice,Kerala,27.1,2375,81,Clay Loam,5.05
+Pulses,Bihar,20.7,693,54,Loam,0.71
+Groundnut,Maharashtra,28.0,834,66,Red Soil,1.48
+Maize,Uttarakhand,26.5,872,66,Sandy Loam,4.38
+Soybean,Kerala,25.5,879,75,Clay Loam,2.79
+Maize,Chhattisgarh,19.1,880,59,Alluvial,3.24
+Tea,Jammu and Kashmir,17.6,2249,79,Acidic,2.37
+Rice,Uttar Pradesh,32.4,2220,85,Alluvial,2.97
+Groundnut,Tamil Nadu,28.0,712,60,Sandy Loam,2.58
+Wheat,Assam,20.7,510,70,Loam,4.69
+Maize,Gujarat,22.7,1250,66,Loam,2.89
+Wheat,Gujarat,17.2,558,58,Clay Loam,4.01
+Maize,Assam,23.0,814,74,Sandy Loam,2.21
+Millets,Haryana,29.6,630,46,Sandy Loam,1.52
+Sugarcane,Uttar Pradesh,21.0,1311,67,Loam,119.63
+Tea,Bihar,18.5,2176,82,Acidic,2.55
+Sugarcane,West Bengal,32.7,1507,78,Loam,107.8
+Rice,Karnataka,30.7,1531,75,Clay,6.23
+Sugarcane,Uttarakhand,35.1,1036,63,Black Soil,90.28
+Pulses,Jharkhand,26.4,653,59,Black Soil,2.35
+Tea,Jammu and Kashmir,23.6,1609,78,Mountain,2.66
+Maize,Maharashtra,29.6,784,61,Sandy Loam,5.65
+Cotton,Andhra Pradesh,16.5,1046,51,Black Soil,0.58
+Pulses,Karnataka,20.6,626,62,Black Soil,2.19
+Pulses,Chhattisgarh,21.7,625,55,Loam,1.17
+Soybean,Tamil Nadu,25.1,1077,55,Black Soil,3.67
+Groundnut,Kerala,29.3,818,68,Loam,2.83
+Pulses,Kerala,27.3,785,66,Black Soil,1.67
+Wheat,Chhattisgarh,21.0,682,50,Clay Loam,4.8
+Rice,Telangana,28.0,2058,82,Clay,6.41
+Groundnut,Telangana,29.5,1006,67,Red Soil,2.16
+Groundnut,Maharashtra,29.4,837,56,Red Soil,1.78
+Groundnut,Haryana,31.7,506,63,Loam,3.29
+Cotton,Assam,21.5,507,58,Red Soil,0.78
+Wheat,Jammu and Kashmir,23.9,508,65,Silty Loam,5.16
+Wheat,Telangana,14.2,786,54,Loam,4.38
+Sugarcane,Chhattisgarh,31.9,1145,66,Alluvial,91.63
+Rice,Maharashtra,26.1,2919,90,Clay Loam,4.28
+Cotton,Karnataka,28.9,519,55,Black Soil,1.33
+Millets,Uttarakhand,27.0,588,57,Sandy Loam,2.46
+Rice,Telangana,22.9,2049,89,Clay Loam,3.35
+Millets,Madhya Pradesh,35.2,640,50,Sandy Loam,2.84
+Tea,Uttar Pradesh,15.9,1864,88,Mountain,3.43
+Pulses,Andhra Pradesh,28.1,565,70,Sandy Loam,1.1
+Soybean,Tamil Nadu,27.2,575,52,Alluvial,2.12
+Sugarcane,Gujarat,28.5,1373,70,Alluvial,102.3
+Tea,Kerala,23.6,1845,84,Laterite,1.94
+Tea,Chhattisgarh,22.9,1623,78,Laterite,2.51
+Soybean,Bihar,20.1,829,67,Alluvial,3.2
+Cotton,Assam,18.6,716,50,Black Soil,2.03
+Millets,Maharashtra,27.4,411,60,Red Soil,1.87
+Tea,Gujarat,19.6,2062,70,Mountain,1.69
+Groundnut,Bihar,29.3,593,71,Red Soil,3.04
+Tea,Uttar Pradesh,21.1,2516,85,Laterite,4.15
+Rice,Tamil Nadu,19.0,2519,68,Clay Loam,3.26
+Rice,Uttar Pradesh,30.0,2367,71,Clay Loam,6.21
+Maize,Tamil Nadu,17.3,1027,56,Sandy Loam,6.8
+Rice,Chhattisgarh,20.8,2840,94,Alluvial,4.32
+Millets,Uttarakhand,26.9,656,44,Red Soil,0.83
+Cotton,Andhra Pradesh,27.0,646,56,Red Soil,1.05
+Sugarcane,West Bengal,30.0,924,72,Loam,76.11
+Maize,Jharkhand,17.1,951,76,Sandy Loam,3.15
+Soybean,Uttar Pradesh,27.9,873,65,Clay Loam,1.61
+Tea,Telangana,14.3,1991,75,Acidic,1.75
+Pulses,Karnataka,26.9,569,61,Loam,1.36
+Maize,Odisha,28.0,635,51,Alluvial,4.06
+Maize,Odisha,20.4,917,81,Alluvial,2.16
+Cotton,Uttarakhand,26.6,628,49,Alluvial,2.36
+Maize,West Bengal,23.8,861,58,Sandy Loam,5.32
+Rice,Bihar,26.8,2941,73,Alluvial,6.28
+Groundnut,West Bengal,31.5,750,64,Sandy Loam,2.26
+Cotton,Uttar Pradesh,34.1,732,63,Alluvial,1.28
+Rice,Telangana,31.1,2492,76,Alluvial,3.85
+Wheat,Uttarakhand,16.3,567,66,Loam,5.16
+Soybean,Kerala,23.4,876,80,Black Soil,2.24
+Wheat,Madhya Pradesh,16.1,419,55,Clay Loam,5.12
+Maize,Kerala,20.7,700,69,Sandy Loam,4.34
+Tea,Gujarat,23.4,2682,82,Acidic,3.26
+Maize,Jammu and Kashmir,26.4,517,63,Loam,5.92
+Wheat,Jammu and Kashmir,19.2,819,53,Clay Loam,5.21
+Soybean,Chhattisgarh,29.5,809,64,Black Soil,1.88
+Millets,Uttar Pradesh,27.8,419,43,Sandy Loam,2.68
+Tea,Punjab,17.2,1745,91,Acidic,2.47
+Groundnut,Gujarat,30.4,907,63,Red Soil,3.19
+Soybean,Bihar,24.1,911,72,Alluvial,1.49
+Pulses,Gujarat,21.3,522,51,Sandy Loam,2.27
+Maize,Kerala,26.8,1087,62,Alluvial,3.74
+Millets,West Bengal,25.2,482,59,Sandy Loam,2.38
+Pulses,Andhra Pradesh,24.7,729,56,Sandy Loam,0.77
+Wheat,Haryana,15.5,422,62,Silty Loam,5.57
+Millets,Madhya Pradesh,29.1,466,63,Black Soil,2.08
+Soybean,Odisha,31.9,877,77,Black Soil,4.15
+Millets,Haryana,31.5,468,49,Sandy Loam,2.43
+Rice,Gujarat,24.6,2901,95,Alluvial,3.71
+Cotton,Gujarat,20.3,727,52,Alluvial,2.21
+Cotton,Uttar Pradesh,22.1,862,76,Alluvial,1.95
+Sugarcane,Odisha,22.7,1418,56,Black Soil,93.92
+Maize,Jammu and Kashmir,22.1,1005,60,Loam,3.98
+Pulses,Uttar Pradesh,26.3,545,68,Loam,2.08
+Groundnut,Rajasthan,30.7,405,60,Sandy Loam,3.03
+Maize,Bihar,18.6,865,81,Alluvial,4.05
+Soybean,Rajasthan,23.7,670,79,Black Soil,3.01
+Sugarcane,Gujarat,21.1,1513,63,Loam,75.53
+Soybean,Madhya Pradesh,25.2,696,81,Alluvial,2.45
+Maize,Bihar,26.8,1142,77,Loam,4.37
+Cotton,Madhya Pradesh,32.6,909,66,Black Soil,2.09
+Cotton,Punjab,20.5,1052,39,Alluvial,2.35
+Millets,Kerala,30.8,543,62,Black Soil,1.96
+Wheat,Punjab,18.3,568,50,Clay Loam,6.1
+Cotton,Punjab,28.5,974,57,Alluvial,0.5
+Millets,Tamil Nadu,31.0,479,59,Red Soil,1.64
+Soybean,Punjab,28.8,921,75,Alluvial,3.32
+Groundnut,Kerala,27.1,620,70,Loam,2.01
+Rice,Uttarakhand,30.3,2548,73,Clay Loam,3.88
+Soybean,Punjab,28.6,1072,58,Black Soil,3.16
+Tea,Assam,22.7,2431,91,Laterite,3.75
+Maize,Jammu and Kashmir,21.3,630,65,Alluvial,3.5
+Maize,Bihar,25.5,815,64,Sandy Loam,4.07
+Pulses,Telangana,27.4,614,71,Black Soil,0.99
+Tea,Odisha,15.3,2439,88,Acidic,1.87
+Sugarcane,Bihar,29.3,1190,74,Black Soil,97.06
+Sugarcane,Andhra Pradesh,27.1,1168,71,Alluvial,60.46
+Cotton,Andhra Pradesh,31.5,1030,65,Red Soil,2.09
+Maize,Assam,22.7,945,66,Sandy Loam,2.76
+Sugarcane,Madhya Pradesh,26.4,1332,73,Black Soil,83.69
+Rice,Maharashtra,30.0,2756,74,Clay,5.56
+Groundnut,Haryana,25.4,829,65,Sandy Loam,1.93
+Sugarcane,Tamil Nadu,25.1,1016,80,Black Soil,71.43
+Sugarcane,Rajasthan,31.5,1214,57,Black Soil,106.03
+Millets,Gujarat,27.4,357,52,Red Soil,2.83
+Groundnut,West Bengal,26.7,843,72,Sandy Loam,1.99
+Pulses,Andhra Pradesh,29.5,543,52,Loam,1.19
+Cotton,Haryana,31.3,702,76,Red Soil,1.22
+Maize,Jammu and Kashmir,21.8,974,66,Alluvial,2.69
+Millets,Tamil Nadu,33.8,263,43,Sandy Loam,2.81
+Rice,Andhra Pradesh,19.9,1602,78,Clay,3.63
+Soybean,Punjab,22.9,628,71,Clay Loam,1.69
+Groundnut,Maharashtra,32.6,962,76,Sandy Loam,3.1
+Maize,Andhra Pradesh,30.2,880,59,Loam,6.44
+Pulses,Tamil Nadu,20.2,435,65,Sandy Loam,2.0
+Sugarcane,Haryana,21.9,1043,79,Black Soil,84.29
+Cotton,Uttarakhand,33.7,876,71,Alluvial,2.39
+Soybean,Telangana,22.3,918,55,Alluvial,2.7
+Groundnut,West Bengal,31.6,641,66,Sandy Loam,2.89
+Tea,Andhra Pradesh,15.8,1920,91,Laterite,3.57
+Soybean,Maharashtra,21.7,559,65,Clay Loam,2.38
+Cotton,Andhra Pradesh,35.9,779,70,Red Soil,1.92
+Sugarcane,Rajasthan,22.6,1183,82,Alluvial,63.83
+Pulses,Madhya Pradesh,27.3,474,72,Black Soil,1.85
+Millets,Uttar Pradesh,33.3,617,41,Black Soil,1.58
+Rice,Telangana,30.9,1981,86,Alluvial,2.56
+Pulses,Madhya Pradesh,22.1,581,62,Sandy Loam,2.32
+Wheat,Andhra Pradesh,17.8,501,51,Silty Loam,4.74
+Pulses,Telangana,28.4,585,63,Loam,2.32
+Soybean,Punjab,33.0,755,77,Black Soil,3.53
+Wheat,Telangana,17.7,651,72,Silty Loam,5.11
+Maize,Uttarakhand,22.4,630,47,Alluvial,6.0
+Cotton,West Bengal,21.4,755,61,Alluvial,2.03
+Rice,Jharkhand,32.4,1896,78,Clay,5.17
+Soybean,Assam,27.3,801,77,Black Soil,2.95
+Cotton,Tamil Nadu,23.8,629,59,Black Soil,2.85
+Millets,Assam,29.1,503,38,Black Soil,1.26
+Soybean,Uttar Pradesh,22.4,782,74,Alluvial,2.92
+Rice,Chhattisgarh,23.4,2367,76,Clay,2.66
+Maize,Kerala,26.3,843,51,Sandy Loam,3.18
+Maize,Karnataka,26.7,703,73,Alluvial,6.02
+Soybean,Uttarakhand,28.8,975,70,Alluvial,2.11
+Tea,Telangana,21.8,1890,94,Mountain,3.26
+Tea,West Bengal,22.5,1856,74,Acidic,2.62
+Maize,Gujarat,19.3,713,76,Loam,3.4
+Cotton,Jammu and Kashmir,25.6,1116,63,Black Soil,1.83
+Cotton,Assam,30.3,835,67,Alluvial,2.51
+Tea,Uttarakhand,20.5,1830,82,Laterite,1.69
+Groundnut,Rajasthan,26.9,617,62,Sandy Loam,1.74
+Tea,Assam,23.6,2156,83,Acidic,2.8
+Rice,Telangana,27.1,2381,88,Clay,3.21
+Tea,Kerala,22.8,2657,71,Acidic,2.91
+Millets,Haryana,32.8,635,46,Black Soil,1.2
+Cotton,Madhya Pradesh,32.5,1172,63,Red Soil,2.1
+Millets,Maharashtra,33.9,354,60,Red Soil,1.17
+Sugarcane,Telangana,28.6,1291,81,Black Soil,74.74
+Soybean,Madhya Pradesh,31.4,821,74,Black Soil,3.01
+Cotton,Chhattisgarh,24.1,818,42,Black Soil,1.0
+Soybean,Kerala,29.1,901,72,Clay Loam,1.96
+Cotton,Maharashtra,30.7,470,63,Red Soil,2.19
+Millets,Assam,26.5,454,44,Red Soil,2.18
+Millets,Tamil Nadu,27.9,561,40,Red Soil,2.45
+Maize,Andhra Pradesh,30.3,670,66,Loam,6.5
+Soybean,Maharashtra,25.8,624,62,Black Soil,3.37
+Maize,Gujarat,20.4,545,67,Alluvial,6.8
+Sugarcane,Rajasthan,28.3,1065,66,Black Soil,77.4
+Soybean,Uttar Pradesh,31.0,634,79,Clay Loam,2.59
+Groundnut,Maharashtra,24.4,811,71,Red Soil,4.51
+Rice,Gujarat,34.1,2278,95,Alluvial,2.77
+Soybean,Jharkhand,30.2,558,81,Alluvial,2.16
+Wheat,Madhya Pradesh,22.2,569,46,Silty Loam,4.63
+Rice,Uttar Pradesh,22.3,2579,82,Clay,2.38
+Soybean,Telangana,17.1,687,64,Clay Loam,3.1
+Sugarcane,Uttarakhand,25.9,1269,86,Alluvial,97.94
+Pulses,Andhra Pradesh,23.3,570,50,Sandy Loam,2.22
+Maize,Punjab,22.0,980,63,Sandy Loam,2.94
+Wheat,Uttarakhand,16.4,699,54,Clay Loam,5.06
+Maize,Kerala,22.1,1019,58,Loam,3.36
+Tea,Assam,20.4,2090,74,Acidic,3.05
+Millets,Chhattisgarh,28.9,604,54,Sandy Loam,2.26
+Groundnut,Punjab,27.3,798,59,Loam,1.92
+Millets,Punjab,27.2,572,61,Sandy Loam,2.47
+Rice,Uttarakhand,24.6,1702,86,Clay,4.27
+Pulses,Uttar Pradesh,23.1,502,52,Black Soil,2.39
+Sugarcane,Tamil Nadu,25.0,1067,49,Black Soil,74.79
+Pulses,Chhattisgarh,26.3,649,76,Loam,0.76
+Sugarcane,Maharashtra,34.8,1164,61,Black Soil,79.06
+Millets,Bihar,34.7,625,64,Black Soil,2.54
+Rice,Madhya Pradesh,24.2,2583,84,Clay,5.31
+Wheat,Bihar,21.7,522,54,Loam,5.3
+Soybean,Assam,21.6,936,76,Alluvial,2.21
+Soybean,Chhattisgarh,28.7,845,70,Alluvial,2.78
+Soybean,Telangana,33.3,956,80,Clay Loam,2.78
+Tea,Uttarakhand,17.9,2184,79,Laterite,2.52
+Wheat,Karnataka,16.8,665,66,Clay Loam,3.51
+Wheat,Maharashtra,24.2,344,59,Loam,4.61
+Maize,Maharashtra,29.4,1012,73,Loam,6.59
+Maize,West Bengal,22.8,1336,64,Alluvial,5.34
+Cotton,Uttar Pradesh,23.5,711,60,Alluvial,1.98
+Groundnut,Tamil Nadu,27.4,773,61,Loam,2.61
+Wheat,Bihar,23.4,887,59,Loam,4.09
+Pulses,Karnataka,27.6,783,78,Sandy Loam,1.37
+Groundnut,Andhra Pradesh,25.9,801,59,Loam,2.68
+Maize,Telangana,21.6,862,71,Sandy Loam,2.88
+Groundnut,Karnataka,27.3,710,75,Sandy Loam,2.86
+Pulses,Uttarakhand,25.6,670,67,Black Soil,1.13
+Tea,Jharkhand,15.2,2264,93,Mountain,1.71
+Groundnut,Punjab,37.2,683,77,Red Soil,2.56
+Maize,Tamil Nadu,27.6,1287,59,Loam,4.85
+Tea,Maharashtra,21.0,1807,76,Acidic,2.41
+Soybean,Chhattisgarh,29.6,937,61,Alluvial,3.47
+Pulses,Karnataka,21.5,500,69,Black Soil,2.04
+Wheat,Tamil Nadu,17.0,604,66,Loam,4.49
+Groundnut,Punjab,28.6,756,62,Loam,2.15
+Millets,Jammu and Kashmir,29.6,656,36,Black Soil,3.23
+Millets,Karnataka,32.5,499,58,Black Soil,1.7
+Rice,Jammu and Kashmir,25.3,2387,71,Clay,3.07
+Maize,Madhya Pradesh,26.6,632,71,Alluvial,2.53
+Tea,Bihar,17.5,2003,80,Laterite,1.35
+Groundnut,Uttarakhand,31.8,584,67,Sandy Loam,2.4
+Rice,Kerala,32.0,2647,82,Clay,2.37
+Pulses,Chhattisgarh,19.3,546,62,Loam,1.11
+Sugarcane,Kerala,21.1,1506,75,Alluvial,68.54
+Soybean,Andhra Pradesh,23.6,1146,64,Alluvial,0.99
+Rice,Gujarat,32.0,2547,75,Alluvial,4.03
+Pulses,Odisha,29.8,913,65,Sandy Loam,1.52
+Rice,Jharkhand,22.6,1703,79,Clay Loam,4.05
+Rice,Rajasthan,25.0,1618,80,Alluvial,2.73
+Wheat,Chhattisgarh,18.4,380,62,Clay Loam,4.63
+Pulses,Kerala,27.8,366,70,Sandy Loam,1.96
+Groundnut,Rajasthan,22.6,489,59,Loam,2.04
+Soybean,Jammu and Kashmir,22.5,850,75,Clay Loam,2.83
+Wheat,Assam,25.0,480,55,Clay Loam,4.43
+Wheat,Uttar Pradesh,16.6,512,53,Clay Loam,3.5
+Groundnut,Odisha,28.1,819,66,Loam,2.32
+Wheat,Chhattisgarh,20.9,318,74,Loam,4.23
+Wheat,West Bengal,17.7,263,60,Loam,4.71
+Tea,Rajasthan,16.9,1674,87,Acidic,3.43
+Sugarcane,Kerala,33.0,1358,75,Black Soil,99.87
+Soybean,Chhattisgarh,28.3,787,64,Clay Loam,2.96
+Millets,Uttar Pradesh,27.8,375,42,Sandy Loam,2.39
+Sugarcane,Bihar,17.8,1289,81,Alluvial,85.52
+Cotton,Kerala,30.1,635,59,Alluvial,2.28
+Rice,West Bengal,22.8,2675,83,Clay,4.12
+Wheat,Jharkhand,19.6,684,58,Silty Loam,4.32
+Pulses,Punjab,21.0,461,51,Sandy Loam,0.97
+Wheat,Madhya Pradesh,13.9,848,56,Loam,5.43
+Maize,Karnataka,22.7,696,66,Alluvial,6.3
+Millets,Odisha,25.9,510,60,Red Soil,0.73
+Pulses,Jharkhand,24.8,349,70,Sandy Loam,1.91
+Cotton,Andhra Pradesh,23.0,412,66,Black Soil,2.65
+Wheat,Jammu and Kashmir,19.7,552,61,Loam,4.63
+Soybean,Uttar Pradesh,23.0,691,66,Clay Loam,1.46
+Rice,Jharkhand,30.8,3040,74,Alluvial,4.77
+Wheat,Karnataka,11.7,454,74,Silty Loam,4.37
+Tea,Punjab,26.0,2597,93,Laterite,2.78
+Rice,Madhya Pradesh,30.7,1647,76,Alluvial,5.55
+Rice,Chhattisgarh,25.4,2454,70,Clay Loam,6.45
+Millets,Tamil Nadu,27.0,415,55,Red Soil,2.06
+Cotton,Tamil Nadu,25.0,886,58,Black Soil,1.92
+Pulses,Madhya Pradesh,21.3,596,55,Black Soil,2.24
+Wheat,Haryana,22.6,502,60,Loam,2.91
+Maize,Tamil Nadu,30.5,1119,74,Sandy Loam,2.39
+Groundnut,Maharashtra,28.6,840,70,Loam,2.81
+Tea,Bihar,21.3,2152,92,Mountain,2.12
+Groundnut,Kerala,25.6,745,81,Sandy Loam,1.33
+Tea,Jammu and Kashmir,20.0,1869,80,Mountain,2.92
+Rice,Tamil Nadu,31.0,1454,77,Alluvial,5.16
+Sugarcane,Maharashtra,30.0,1502,87,Loam,67.43
+Pulses,Punjab,23.1,603,68,Loam,0.93
+Rice,Chhattisgarh,21.2,2450,81,Alluvial,3.02
+Cotton,Jharkhand,21.9,838,65,Black Soil,2.14
+Soybean,Tamil Nadu,24.1,1033,79,Alluvial,1.91
+Groundnut,Chhattisgarh,34.3,807,69,Red Soil,2.23
+Rice,Telangana,21.9,2085,82,Clay Loam,5.23
+Soybean,West Bengal,28.3,807,77,Clay Loam,3.05
+Pulses,Uttarakhand,26.3,565,79,Black Soil,2.6
+Millets,Bihar,26.9,809,41,Black Soil,2.4
+Sugarcane,Jammu and Kashmir,21.5,1372,63,Alluvial,118.39
+Sugarcane,Chhattisgarh,26.5,1376,73,Loam,79.75
+Cotton,Maharashtra,21.3,701,57,Red Soil,1.29
+Maize,Karnataka,19.9,1192,82,Sandy Loam,6.01
+Millets,Haryana,28.6,742,49,Sandy Loam,1.26
+Pulses,Karnataka,29.1,680,62,Loam,1.92
+Sugarcane,Karnataka,28.4,1252,67,Loam,114.79
+Pulses,Chhattisgarh,20.3,455,61,Loam,1.92
+Millets,Odisha,32.0,562,52,Black Soil,1.95
+Sugarcane,Gujarat,24.2,1090,70,Black Soil,113.11
+Cotton,Odisha,24.7,786,56,Black Soil,3.45
+Sugarcane,Chhattisgarh,25.0,1251,77,Alluvial,118.34
+Millets,Andhra Pradesh,35.3,654,39,Red Soil,2.8
+Sugarcane,Uttarakhand,27.9,1337,81,Loam,107.83
+Millets,Telangana,28.7,488,49,Black Soil,1.48
+Pulses,Jharkhand,29.3,453,69,Black Soil,1.52
+Tea,Jammu and Kashmir,25.0,1535,91,Laterite,3.36
+Tea,Assam,18.2,2233,80,Acidic,1.87
+Pulses,Odisha,21.4,686,64,Black Soil,1.87
+Soybean,Bihar,24.8,613,75,Black Soil,3.25
+Soybean,Maharashtra,25.9,484,76,Black Soil,2.13
+Maize,Haryana,25.5,790,68,Sandy Loam,2.62
+Rice,Maharashtra,33.4,1913,66,Clay Loam,4.42
+Pulses,Karnataka,22.7,610,74,Black Soil,1.93
+Maize,Uttar Pradesh,24.7,577,65,Alluvial,4.91
+Rice,Bihar,28.7,1906,90,Alluvial,2.04
+Millets,Madhya Pradesh,33.3,632,33,Red Soil,2.86
+Rice,Tamil Nadu,25.2,1867,75,Clay,4.41
+Rice,Uttarakhand,25.8,2005,80,Clay,2.6
+Tea,Gujarat,17.5,1871,87,Mountain,1.56
+Wheat,Jharkhand,22.3,619,54,Silty Loam,5.34
+Millets,Jharkhand,29.2,775,53,Black Soil,1.29
+Pulses,Tamil Nadu,20.2,573,62,Loam,0.88
+Soybean,Uttar Pradesh,20.8,648,66,Clay Loam,3.72
+Rice,Jammu and Kashmir,25.7,2017,71,Clay Loam,3.58
+Soybean,Andhra Pradesh,29.0,775,57,Alluvial,1.63
+Wheat,Kerala,18.0,646,70,Silty Loam,3.48
+Millets,Punjab,28.7,323,72,Sandy Loam,1.62
+Pulses,Kerala,27.2,600,63,Loam,1.28
+Maize,Tamil Nadu,24.2,977,80,Loam,4.93
+Maize,Tamil Nadu,28.7,629,61,Loam,6.8
+Millets,Jharkhand,31.2,445,55,Black Soil,1.04
+Wheat,Uttarakhand,15.3,522,73,Clay Loam,3.11
+Wheat,Jharkhand,20.4,517,50,Clay Loam,4.17
+Millets,Karnataka,28.1,451,53,Red Soil,1.64
+Sugarcane,Jammu and Kashmir,32.2,1415,72,Alluvial,101.74
+Tea,Haryana,26.1,1711,78,Laterite,2.69
+Groundnut,Madhya Pradesh,28.9,728,67,Red Soil,1.91
+Millets,Chhattisgarh,31.3,680,51,Red Soil,1.81
+Sugarcane,Gujarat,33.9,1455,81,Loam,94.37
+Tea,Assam,27.0,1826,81,Mountain,2.83
+Maize,Jharkhand,22.5,983,62,Sandy Loam,3.63
+Rice,Uttarakhand,23.3,2536,82,Clay Loam,4.95
+Millets,Karnataka,31.6,560,46,Red Soil,1.32
+Millets,Telangana,25.1,539,41,Red Soil,1.33
+Cotton,Chhattisgarh,23.5,717,57,Black Soil,2.41
+Tea,Andhra Pradesh,19.8,2032,83,Acidic,2.12
+Wheat,Jammu and Kashmir,20.0,656,54,Loam,3.12
+Soybean,Jammu and Kashmir,23.1,800,73,Black Soil,1.76
+Rice,Chhattisgarh,27.2,1686,81,Alluvial,2.78
+Pulses,Maharashtra,25.5,644,69,Sandy Loam,0.98
+Sugarcane,Kerala,28.2,1343,74,Alluvial,114.83
+Maize,Karnataka,17.9,881,70,Sandy Loam,3.65
+Millets,Maharashtra,27.5,437,51,Black Soil,2.7
+Cotton,Kerala,31.3,1077,58,Alluvial,1.66
+Pulses,Jammu and Kashmir,19.3,579,64,Sandy Loam,1.61
+Rice,Jammu and Kashmir,24.0,1648,79,Clay Loam,6.21
+Maize,Chhattisgarh,26.0,876,67,Sandy Loam,6.78
+Groundnut,Haryana,27.3,982,68,Red Soil,1.56
+Maize,Bihar,23.1,854,64,Loam,4.94
+Cotton,Jammu and Kashmir,31.9,459,63,Alluvial,2.62
+Groundnut,Jammu and Kashmir,30.8,635,69,Red Soil,1.72
+Soybean,Haryana,28.2,811,48,Clay Loam,2.61
+Wheat,Bihar,25.2,555,57,Loam,3.07
+Wheat,Tamil Nadu,16.3,406,48,Clay Loam,4.04
+Tea,Assam,26.6,1817,74,Acidic,2.46
+Maize,Uttarakhand,29.2,1108,66,Sandy Loam,6.3
+Cotton,Chhattisgarh,32.1,767,63,Alluvial,2.53
+Maize,Telangana,22.9,860,70,Alluvial,3.16
+Groundnut,Assam,31.3,853,66,Loam,3.06
+Rice,Andhra Pradesh,27.6,1911,82,Clay,4.4
+Pulses,Haryana,23.7,654,68,Loam,1.99
+Sugarcane,Uttarakhand,21.5,1299,54,Alluvial,87.94
+Cotton,Kerala,27.2,529,54,Alluvial,2.65
+Sugarcane,Gujarat,26.3,1294,62,Alluvial,106.85
+Maize,Haryana,20.4,877,67,Loam,6.77
+Pulses,Assam,20.8,287,53,Sandy Loam,1.28
+Wheat,Maharashtra,17.0,494,46,Loam,5.27
+Pulses,West Bengal,24.6,681,42,Black Soil,1.81
+Sugarcane,Jharkhand,32.2,1325,94,Black Soil,63.96
+Tea,Haryana,23.1,2160,78,Mountain,2.82
+Maize,West Bengal,30.6,872,67,Alluvial,1.93
+Pulses,Uttar Pradesh,26.3,303,61,Loam,2.03
+Tea,Tamil Nadu,24.1,1696,84,Acidic,3.17
+Wheat,Jammu and Kashmir,24.5,541,69,Loam,3.05
+Pulses,Jharkhand,20.9,493,62,Loam,2.28
+Sugarcane,Odisha,36.2,1516,53,Loam,71.65
+Cotton,Assam,27.9,912,59,Alluvial,2.31
+Pulses,Assam,30.1,575,60,Black Soil,1.62
+Soybean,Punjab,31.2,739,70,Alluvial,1.36
+Soybean,Bihar,19.4,656,69,Clay Loam,3.38
+Rice,Uttar Pradesh,26.5,2251,87,Clay Loam,4.36
+Cotton,Kerala,32.4,745,57,Alluvial,1.78
+Millets,Rajasthan,32.6,434,54,Black Soil,2.33
+Millets,Assam,29.9,337,49,Sandy Loam,2.61
+Millets,Kerala,28.0,236,45,Black Soil,2.61
+Millets,Uttarakhand,26.1,462,55,Red Soil,3.0
+Groundnut,Gujarat,24.8,778,57,Red Soil,1.95
+Soybean,Madhya Pradesh,24.3,1018,85,Clay Loam,3.15
+Rice,Haryana,20.7,2512,69,Clay,3.81
+Sugarcane,Uttar Pradesh,23.0,1302,68,Loam,95.78
+Sugarcane,Jammu and Kashmir,33.0,1532,63,Alluvial,95.93
+Soybean,Assam,31.7,945,60,Clay Loam,2.84
+Pulses,Uttar Pradesh,25.4,431,51,Loam,1.58

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Enhanced Crop Yield Prediction</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f5f5f5;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    select, input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+      width: 100%;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .results {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #f8f9fa;
+      border-radius: 4px;
+    }
+    .prediction-section {
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid #dee2e6;
+      border-radius: 4px;
+    }
+    .model-info {
+      background-color: #e7f3ff;
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+    }
+    .confidence-interval {
+      font-style: italic;
+      color: #666;
+    }
+    .error {
+      color: red;
+      background-color: #ffebee;
+      padding: 10px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Enhanced Crop Yield Prediction</h1>
+    <p style="text-align: center; color: #666;">
+      Powered by Ensemble Learning (Linear + Random Forest + Gradient Boosting)
+    </p>
+
+    <form id="predictionForm">
+      <div class="form-group">
+        <label for="crop_type">Crop Type:</label>
+        <select id="crop_type" name="crop_type" required></select>
+      </div>
+
+      <div class="form-group">
+        <label for="region">Region:</label>
+        <select id="region" name="region" required></select>
+      </div>
+
+      <div class="form-group">
+        <label for="soil_type">Soil Type:</label>
+        <select id="soil_type" name="soil_type" required></select>
+      </div>
+
+      <div class="form-group">
+        <label for="temperature_c">Temperature (°C):</label>
+        <input type="number" step="0.1" id="temperature_c" name="temperature_c" required />
+      </div>
+
+      <div class="form-group">
+        <label for="rainfall_mm">Rainfall (mm):</label>
+        <input type="number" step="0.1" id="rainfall_mm" name="rainfall_mm" required />
+      </div>
+
+      <div class="form-group">
+        <label for="humidity_percent">Humidity (%):</label>
+        <input type="number" step="0.1" id="humidity_percent" name="humidity_percent" required />
+      </div>
+
+      <div class="form-group">
+        <label for="area_hectares">Area (hectares):</label>
+        <input type="number" step="0.1" id="area_hectares" name="area_hectares" required />
+      </div>
+
+      <button type="submit">Predict Yield</button>
+    </form>
+
+    <div id="results" style="display: none;">
+      <h2>Prediction Results</h2>
+      
+      <div class="prediction-section">
+        <h3>Yield Prediction</h3>
+        <p><strong>Yield per Hectare:</strong> <span id="yieldPerHa"></span> tonnes</p>
+        <p><strong>Total Yield:</strong> <span id="totalYield"></span> tonnes</p>
+        <p><strong>Quality Score:</strong> <span id="qualityScore"></span>/100</p>
+        
+        <div class="confidence-interval">
+          <h4>Confidence Interval (95%)</h4>
+          <p>Lower bound: <span id="lowerBound"></span> tonnes per hectare</p>
+          <p>Upper bound: <span id="upperBound"></span> tonnes per hectare</p>
+        </div>
+      </div>
+
+      <div class="model-info">
+        <h3>Model Information</h3>
+        <p><strong>Model Type:</strong> <span id="modelType"></span></p>
+        <p><strong>Features Used:</strong> <span id="featuresUsed"></span></p>
+        <p><strong>Confidence Level:</strong> <span id="confidenceLevel"></span></p>
+      </div>
+    </div>
+
+    <div id="error" style="display: none;" class="error">
+      <p id="errorMessage"></p>
+    </div>
+  </div>
+
+  <script>
+    async function loadCategories() {
+      try {
+        const res = await fetch("/categories");
+        if (!res.ok) throw new Error('Failed to load categories');
+        
+        const data = await res.json();
+
+        const cropSelect = document.getElementById("crop_type");
+        const regionSelect = document.getElementById("region");
+        const soilSelect = document.getElementById("soil_type");
+
+        // Clear existing options
+        cropSelect.innerHTML = '<option value="">Select crop type</option>';
+        regionSelect.innerHTML = '<option value="">Select region</option>';
+        soilSelect.innerHTML = '<option value="">Select soil type</option>';
+
+        // Populate crop types
+        data.crop_type.forEach(c => {
+          const opt = document.createElement("option");
+          opt.value = c;
+          opt.textContent = c;
+          cropSelect.appendChild(opt);
+        });
+
+        // Populate regions
+        data.region.forEach(r => {
+          const opt = document.createElement("option");
+          opt.value = r;
+          opt.textContent = r;
+          regionSelect.appendChild(opt);
+        });
+
+        // Populate soil types
+        data.soil_type.forEach(s => {
+          const opt = document.createElement("option");
+          opt.value = s;
+          opt.textContent = s;
+          soilSelect.appendChild(opt);
+        });
+
+      } catch (error) {
+        console.error('Error loading categories:', error);
+        showError('Failed to load categories. Please refresh the page.');
+      }
+    }
+
+    function showError(message) {
+      const errorDiv = document.getElementById("error");
+      const errorMessage = document.getElementById("errorMessage");
+      const resultsDiv = document.getElementById("results");
+      
+      errorMessage.textContent = message;
+      errorDiv.style.display = "block";
+      resultsDiv.style.display = "none";
+    }
+
+    function hideError() {
+      document.getElementById("error").style.display = "none";
+    }
+
+    document.getElementById("predictionForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      hideError();
+      
+      const formData = new FormData(e.target);
+      const params = new URLSearchParams(formData);
+
+      try {
+        const res = await fetch(`/predict?${params.toString()}`);
+        
+        if (!res.ok) {
+          throw new Error(`Server error: ${res.status}`);
+        }
+        
+        const result = await res.json();
+
+        if (result.error) {
+          showError(result.error);
+          return;
+        }
+
+        // Display prediction results
+        document.getElementById("yieldPerHa").textContent = result.prediction.yield_per_hectare;
+        document.getElementById("totalYield").textContent = result.prediction.total_yield;
+        document.getElementById("qualityScore").textContent = result.prediction.quality_score;
+        
+        // Display confidence interval
+        document.getElementById("lowerBound").textContent = result.prediction.confidence_interval.lower;
+        document.getElementById("upperBound").textContent = result.prediction.confidence_interval.upper;
+        
+        // Display model information
+        document.getElementById("modelType").textContent = result.model_info.type;
+        document.getElementById("featuresUsed").textContent = result.model_info.features_used;
+        document.getElementById("confidenceLevel").textContent = result.model_info.confidence;
+
+        // Show results
+        document.getElementById("results").style.display = "block";
+
+      } catch (error) {
+        console.error('Prediction error:', error);
+        showError('Failed to get prediction. Please check your inputs and try again.');
+      }
+    });
+
+    // Load categories when page loads
+    loadCategories();
+  </script>
+</body>
+</html>
